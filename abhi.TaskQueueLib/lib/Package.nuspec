@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>abhi.TaskQueueLib</id>
+    <version>1.0.1</version>
+    <title>Thread Based Job Queue</title>
+    <authors>Abhishek Kumar</authors>
+    <owners>Abhishek Kumar</owners>
+    <licenseUrl>https://raw.githubusercontent.com/abhishek4official/ThreadBasedJobQueue/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/abhishek4official/ThreadBasedJobQueue</projectUrl>
+    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ThreadBasedJobQueue Helps you to run Parallel Jobs in controled environment</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Task Queue Thread Queue Job Queue</tags>
+  </metadata>
+</package>
